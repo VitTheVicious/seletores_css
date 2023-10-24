@@ -1,0 +1,35 @@
+
+
+.para1 {
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+    padding: 100px;
+    text-align: center;
+    border: 5px yellow dotted;
+}
+
+.para2 {
+    width: 90px;
+    height: 120px;
+    margin: 100px;
+    padding: 100px;
+    text-align: center;
+    border: 4px blue dashed;
+}
+
+.para3 {
+    width: 80px;
+    height: 130px;
+    margin: 100px;
+    padding: 100px;
+    border: 2px red solid;
+}
+
+.para4 {
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+    padding: 100px;
+    border: 6px green groove;
+}
